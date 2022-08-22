@@ -1,0 +1,15 @@
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\CodeWars2.csproj.AssemblyReference.cache
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\CodeWars2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\CodeWars2.AssemblyInfoInputs.cache
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\CodeWars2.AssemblyInfo.cs
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\CodeWars2.csproj.CoreCompileInputs.cache
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\bin\Debug\net6.0\CodeWars2.exe
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\bin\Debug\net6.0\CodeWars2.deps.json
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\bin\Debug\net6.0\CodeWars2.runtimeconfig.json
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\bin\Debug\net6.0\CodeWars2.dll
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\bin\Debug\net6.0\CodeWars2.pdb
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\CodeWars2.dll
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\refint\CodeWars2.dll
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\CodeWars2.pdb
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\CodeWars2.genruntimeconfig.cache
+C:\Users\hwait\Desktop\CodeWars2\CodeWars2\obj\Debug\net6.0\ref\CodeWars2.dll
